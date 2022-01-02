@@ -37,6 +37,6 @@ Le but ici est de créer un programme qui simule les 3 états des philosophes et
 
 Pleins de ressources sont à ta disposition, ceux qui m'ont aidé à réaliser ce projet. Il y en a sûrement d'autres, mais je partage celles que j'ai trouvé :
 
-* Le playlist complet du Grand Seigneur CodeVault sur les threads :
+* Le playlist complet du Grand Seigneur CodeVault sur les threads et qui m'ont servi :
     https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&index=1&ab_channel=CodeVault
     
