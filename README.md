@@ -25,10 +25,18 @@ bash ./philo [nombre_de_philosophes] [temps_de_mourir] [temps_de_manger] [temps_
 ```
 Le but ici est de créer un programme qui simule les 3 états des philosophes et d'imprimer tout changement d'état comme suit :
 
-    timestamp_in_ms X a pris une fourchette
-    timestamp_in_ms X est en train de manger
-    timestamp_in_ms X dort
-    timestamp_in_ms X réfléchit
-    timestamp_in_ms X est mort
+    timestamp_in_ms X is taking a fork
+    timestamp_in_ms X is eating
+    timestamp_in_ms X is sleeping
+    timestamp_in_ms X is thinking
+    timestamp_in_ms X id dead
 
 ![Screenshot](philo_action.png)
+
+## ET JE FAIS COMMENT POUR FAIRE VIVRE LES MIENS ?
+
+Pleins de ressources sont à ta disposition, ceux qui m'ont aidé à réaliser ce projet. Il y en a sûrement d'autres, mais je partage celles que j'ai trouvé :
+
+* Le playlist complet du Grand Seigneur CodeVault sur les threads :
+    https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&index=1&ab_channel=CodeVault
+    
