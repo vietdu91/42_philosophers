@@ -39,4 +39,9 @@ Pleins de ressources sont à ta disposition, ceux qui m'ont aidé à réaliser c
 
 * Le playlist complet du Grand Seigneur CodeVault sur les threads :
     https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&index=1&ab_channel=CodeVault
+* Un excellent cours tutoriel universitaire de Livermore sur les notions de thread et le multiprocessing :
+    https://hpc-tutorials.llnl.gov/posix/
+* Un petit tuto assez sympa et initiatique sur l'ensemble du probleme :
+    https://docs.oracle.com/cd/E19205-01/820-0619/geosb/index.html
+  
     
